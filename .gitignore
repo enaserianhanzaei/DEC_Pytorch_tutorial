@@ -1,0 +1,14 @@
+*.csv
+*.txt
+*.db
+*.docx
+*.xlsx
+*.doc
+*.pdf
+*.sav
+*.R
+*.spv
+*.sps
+*.png
+*.pth
+*.npy
